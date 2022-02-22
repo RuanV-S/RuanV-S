@@ -1,4 +1,4 @@
-### Olá, sou o Ruan Vieira, tenho 20 anos e esse é o meu perfil.
+### Olá, meu nome é Ruan, aqui está um pouco do meu trabalho.
 </br>
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DevRuanVS)
