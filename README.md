@@ -1,11 +1,12 @@
 ### Olá, meu nome é Ruan, aqui está um pouco do meu trabalho.
 </br>
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/zFvzRZweMx)
+
 
 </br>
 
-![Ruan GitHub stats](https://github-readme-stats.vercel.app/api?username=RuanV-S&show_icons=true&theme=onedark)
+![Ruan GitHub stats](https://github-readme-stats.vercel.app/api?username=RuanV-S&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuanV-S&layout=compact)](https://github.com/RuanV-S/github-readme-stats)
 
 <b>Habilidades:</b>
 <div style="display: inline_block">
@@ -23,6 +24,6 @@
     <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />   
 </div></br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuanV-S&layout=compact)](https://github.com/RuanV-S/github-readme-stats)
+
 </br>
 
