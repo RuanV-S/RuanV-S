@@ -4,8 +4,10 @@
 
 
 </br>
+<div>
+    <img height="180em" scr="https://github-readme-stats.vercel.app/api?username=RuanV-S&show_icons=true&theme=dracula">
+ </div>
 
-![Ruan GitHub stats](https://github-readme-stats.vercel.app/api?username=RuanV-S&show_icons=true&theme=dracula)
 
 
 <b>Habilidades:</b>
