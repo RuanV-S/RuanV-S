@@ -5,7 +5,7 @@
 
 </br>
 
-![Ruan GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+![Ruan GitHub stats](https://github-readme-stats.vercel.app/api?username=RuanV-S&show_icons=true&theme=dracula)
 
 
 <b>Habilidades:</b>
