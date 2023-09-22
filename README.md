@@ -1,13 +1,3 @@
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RuanV-S&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-
-<div align="center">  
-<a href="https://discord.gg/https://discord.gg/Kx5W2JAzNJ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"</a>
-</div>
-  
-
 ### Main skills:
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![JavaScript.js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
