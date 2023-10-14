@@ -1,3 +1,5 @@
+![RuanV-S GitHub stats](https://github-readme-stats.vercel.app/api?username=RuanV-S&show_icons=true&theme=radical)
+
 ### Main skills:
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![JavaScript.js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
