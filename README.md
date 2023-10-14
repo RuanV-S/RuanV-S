@@ -1,4 +1,4 @@
-![RuanV-S GitHub stats](https://github-readme-stats.vercel.app/api?username=RuanV-S&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuanV-S&hide_progress=true)
 
 ### Main skills:
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
