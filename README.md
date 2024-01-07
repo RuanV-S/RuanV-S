@@ -1,6 +1,6 @@
 <h1 align="center">Salve 🖖, Sou o Ruan Vieira</h1><p align="left">
 <h3 align="center">Tenho 22 anos e sou apaixonado em automatização e desenvolvimento web.</h3>
-<img src="https://komarev.com/ghpvc/?username=ruanv-s&label=Profile%20views&color=0e75b6&style=flat" alt="ruanv-s" /> </p>
+<img align="center" src="https://komarev.com/ghpvc/?username=ruanv-s&label=Profile%20views&color=0e75b6&style=flat" alt="ruanv-s" /> </p>
 
 <p>💼 Atualmente, estou a trabalhando com Freelancer</p>
 <p>🎓 Formado em Analise e Desenvolvimento de Sistema na <a href="https://www.fiap.com.br/institucional/" target="blank">FIAP</a></p>
@@ -24,7 +24,7 @@
    <img align="center" alt="stylecomponents" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" >
    <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" >
 </div>
-
+<h2 align="center">Stats:</h3>
 <p>&nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ruanv-s&show_icons=true&locale=en" alt="ruanv-s" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruanv-s&" alt="ruanv-s" /></p>
