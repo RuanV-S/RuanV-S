@@ -2,9 +2,9 @@
 <h3 align="center">Tenho 22 anos e sou apaixonado em automatização e desenvolvimento web.</h3>
 
 
-💼 Atualmente, estou a trabalhando com **freelancer**<\br>
-🎓 Formado em Analise e Desenvolvimento de Sistema na <a href="https://www.fiap.com.br/institucional/" target="blank">FIAP</a><\br>
-🔎 Em busca de me aprimorar e conhecer novas tecnologias para resolver problemas reais, caso queira me ajudar em minha jornada com dicas e criticas, abaixo está meus contatos.<\br>
+<p>💼 Atualmente, estou a trabalhando com **freelancer**</p>
+<p>🎓 Formado em Analise e Desenvolvimento de Sistema na <a href="https://www.fiap.com.br/institucional/" target="blank">FIAP</a></p>
+<p>🔎 Em busca de me aprimorar e conhecer novas tecnologias para resolver problemas reais, caso queira me ajudar em minha jornada com dicas e criticas, abaixo está meus contatos.</p>
 
 
 <h2 align="align="center"">Meus contatos:</h3>
