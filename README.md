@@ -2,12 +2,12 @@
 <h3 align="center">Tenho 22 anos e sou apaixonado em automatização e desenvolvimento web.</h3>
 
 
-💼 Atualmente, estou a trabalhando com **freelancer**
-🎓 Formado em Analise e Desenvolvimento de Sistema na <a href="https://www.fiap.com.br/institucional/" target="blank">FIAP</a>
-🔎 Em busca de me aprimorar e conhecer novas tecnologias para resolver problemas reais, caso queira me ajudar em minha jornada com dicas e criticas, abaixo está meus contatos.
+💼 Atualmente, estou a trabalhando com **freelancer**<\br>
+🎓 Formado em Analise e Desenvolvimento de Sistema na <a href="https://www.fiap.com.br/institucional/" target="blank">FIAP</a><\br>
+🔎 Em busca de me aprimorar e conhecer novas tecnologias para resolver problemas reais, caso queira me ajudar em minha jornada com dicas e criticas, abaixo está meus contatos.<\br>
 
 
-## <h3 align="align="center"">Meus contatos:</h3>
+<h2 align="align="center"">Meus contatos:</h3>
 <p align="left">
 <a href="https://twitter.com/entoa777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="entoa777" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ruanv-s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruanv-s/" height="30" width="40" /></a>
