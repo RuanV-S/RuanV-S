@@ -25,6 +25,7 @@
    <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" >
 </div>
 <h2 align="center">Stats:</h3>
-<p>&nbsp;
+<p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ruanv-s&show_icons=true&locale=en" alt="ruanv-s" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruanv-s&" alt="ruanv-s" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruanv-s&" alt="ruanv-s" />
+</p>
