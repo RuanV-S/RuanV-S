@@ -16,7 +16,7 @@
 
 <h2 align="center">Linguagens:</h3>
 <div style:"display: inline-block">
-  <img align="center" alt="js" height="30" width="40" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" >
+  <img align="center" alt="js" height="30" width="60" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" >
 </div>
 <h2 align="center">Ferramentas:</h3>
 <p>&nbsp;
