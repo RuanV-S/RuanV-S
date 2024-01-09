@@ -10,7 +10,7 @@
 <p align="center">
 <a href="https://twitter.com/entoa777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="entoa777" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ruanv-s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruanv-s/" height="30" width="40" /></a>
-<a href="https://discord.gg/kQPxqARfR7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kQPxqARfR7" height="30" width="40" /></a>
+<a href="https://discord.gg/W3hyhasPgZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kQPxqARfR7" height="30" width="40" /></a>
 </p>
 
 <h2 align="center">Linguagens:</h3>
