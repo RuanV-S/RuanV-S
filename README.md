@@ -4,7 +4,6 @@
 <p>💼 Atualmente, estou a trabalhando com Freelancer</p>
 <p>🎓 Formado em Analise e Desenvolvimento de Sistema na <a href="https://www.fiap.com.br/institucional/" target="blank">FIAP</a></p>
 <p>🔎 Em busca de me aprimorar e conhecer novas tecnologias para resolver problemas reais, caso queira me ajudar em minha jornada com dicas e criticas, abaixo está meus contatos.</p>
-<p>📚 Eterno estudante em tecnologia</p>
 
 <h2 align="center">Meus contatos:</h3>
 <p align="center">
@@ -25,6 +24,5 @@
 </div>
 <h2 align="center">Stats:</h3>
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruanv-s&show_icons=true&locale=en" alt="ruanv-s" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruanv-s&" alt="ruanv-s" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruanv-s&show_icons=true&locale=en" alt="ruanv-s" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruanv-s&" alt="ruanv-s" />
 </p>
