@@ -1,7 +1,6 @@
 <h1 align="center">Salve 🖖, Sou o Ruan Vieira</h1><p align="left">
 <h3 align="center">Tenho 22 anos e sou apaixonado em automatização e desenvolvimento web.</h3> <img align="center" src="https://komarev.com/ghpvc/?username=ruanv-s&label=Profile%20views&color=0e75b6&style=flat" alt="ruanv-s" /> </p>
 
-<p>💼 Atualmente, estou a trabalhando com Freelancer</p>
 <p>🎓 Formado em Analise e Desenvolvimento de Sistema na <a href="https://www.fiap.com.br/institucional/" target="blank">FIAP</a></p>
 <p>🔎 Em busca de me aprimorar e conhecer novas tecnologias para resolver problemas reais, caso queira me ajudar em minha jornada com dicas e criticas, abaixo está meus contatos.</p>
 
