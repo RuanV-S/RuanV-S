@@ -1,5 +1,5 @@
 <h1 align="center">Salve 🖖, Sou o Ruan Vieira</h1><p align="left">
-<img align="center" src="https://komarev.com/ghpvc/?username=ruanv-s&label=Profile%20views&color=0e75b6&style=flat" alt="ruanv-s" />
+<p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=ruanv-s&label=Profile%20views&color=0e75b6&style=flat" alt="ruanv-s" /></p>
 
 <h2 align="center">Linguagens:</h3>
 <div style:"display: inline-block">
