@@ -14,4 +14,5 @@
 <h2 align="center">Stats:</h3>
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ruanv-s&show_icons=true&locale=en" alt="ruanv-s" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruanv-s&" alt="ruanv-s" />
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=entoa)](https://github.com/anuraghazra/github-readme-stats)
 </p>
