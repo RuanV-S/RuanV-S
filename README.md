@@ -6,10 +6,6 @@
 
 ###
 
-<p align="left">I am a software developer currently focused on web development and automation, with a strong emphasis on problem-solving.<br><br>I am also currently studying C#.<br><br>If you would like to support me on my journey, please get in touch. Any help with knowledge or tips is always welcome.</p>
-
-###
-
 <h3 align="center">Github Analytics</h3>
 
 ###
