@@ -1,4 +1,4 @@
-<h1 align="center">Hail 🖖, I'm Ruan Vieira</h1>
+ 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=ruanv-s&label=Profile%20views&color=0e75b6&style=flat" alt="ruanv-s" />
     <img src="https://wakatime.com/badge/user/018c936a-f2ae-4b46-adb4-b1404e3faf26.svg" alt="Wakatime Badge" />
