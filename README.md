@@ -26,7 +26,7 @@
   </div>
 
   <div>
-    <h3>Languages</h3>
+    <h3>Tools</h3>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=git,vscode,docker,linux,windows,xd,figma,notion,postman,discord&perline=5" /> 
     </a>
