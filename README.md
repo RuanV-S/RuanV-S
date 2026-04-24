@@ -10,8 +10,6 @@
   Building SaaS platforms, Discord bots, e-commerce solutions and automation tools.
 </p>
 
-### 🧰 Tech Stack
-
 <div align="center">
   <h4>Languages & Frameworks</h4>
   <a href="https://skillicons.dev">
@@ -26,7 +24,6 @@
 
 ---
 
-### 📊 GitHub Stats
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=RuanV-S&show_icons=true&theme=tokyonight&hide_border=true" />
