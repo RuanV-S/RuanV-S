@@ -6,8 +6,7 @@
 <h1 align="center">Hey, I'm Ruan Vieira 👋</h1>
 
 <p align="center">
-  Full-stack developer & entrepreneur from São Paulo, Brazil 🇧🇷<br/>
-  Building SaaS platforms, Discord bots, e-commerce solutions and automation tools.
+  Full-stack developer & entrepreneur from São Paulo, Brazil 🇧🇷<br/> 
 </p>
 
 <div align="center">
